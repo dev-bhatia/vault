@@ -1,3 +1,4 @@
+```bash
 # Stop default zsh message - OS Catalina
 export BASH_SILENCE_DEPRECATION_WARNING=1
 
@@ -35,3 +36,4 @@ export LESSOPEN='|~/.lessfilter %s'
 
 # Python
 alias python="python3"
+```

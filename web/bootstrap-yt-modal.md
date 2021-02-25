@@ -41,29 +41,11 @@ This example is using Bootstrap v4.6
 ```html
 <html>
   <head>
-    <!-- OPTION 1: INLINE CSS -->
-    <style>
-      .yt-video-container {
-        position: relative;
-        padding-bottom: 56.25%;
-        padding-top: 30px;
-        height: 0;
-        overflow: hidden;
-      }
-
-      .yt-video-container iframe,
-      .yt-video-container object,
-      .yt-video-container embed {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-      }
-    </style>
-
-    <!-- OPTION 2: LINK THE CSS DIRECTLY -->
-    <link rel="stylesheet" href="" />
+    <!-- LINK THE CSS FROM CDN -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/dev-bhatia/vault@main/web/bootstrap-yt-modal.css"
+    />
   </head>
 
   <body>

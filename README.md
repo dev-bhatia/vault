@@ -1,6 +1,4 @@
 ```
-Ah, you've discovered a secret powerup in my github profile.
-
 Welcome to the...
 
 ____     ___                                       ___

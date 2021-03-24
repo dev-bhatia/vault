@@ -1,0 +1,148 @@
+/* 10 Pixels */
+.br-10 {
+  border-radius: 10px;
+}
+
+.brt-10 {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.brb-10 {
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.brtl-10 {
+  border-top-left-radius: 10px !important;
+}
+
+.brtr-10 {
+  border-top-right-radius: 10px !important;
+}
+
+.brbl-10 {
+  border-bottom-left-radius: 10px !important;
+}
+
+.brbr-10 {
+  border-bottom-right-radius: 10px !important;
+}
+/* 15 Pixels */
+.br-15 {
+  border-radius: 15px !important;
+}
+
+.brt-15 {
+  border-top-left-radius: 15px !important;
+  border-top-right-radius: 15px !important;
+}
+
+.brb-15 {
+  border-bottom-left-radius: 15px !important;
+  border-bottom-right-radius: 15px !important;
+}
+
+.brtl-15 {
+  border-top-left-radius: 15px !important;
+}
+
+.brtr-15 {
+  border-top-right-radius: 15px !important;
+}
+
+.brbl-15 {
+  border-bottom-left-radius: 15px !important;
+}
+
+.brbr-15 {
+  border-bottom-right-radius: 15px !important;
+}
+/* 25 Pixels */
+.br-25 {
+  border-radius: 25px !important;
+}
+
+.brt-25 {
+  border-top-left-radius: 25px !important;
+  border-top-right-radius: 25px !important;
+}
+
+.brb-25 {
+  border-bottom-left-radius: 25px !important;
+  border-bottom-right-radius: 25px !important;
+}
+
+.brtl-25 {
+  border-top-left-radius: 25px !important;
+}
+
+.brtr-25 {
+  border-top-right-radius: 25px !important;
+}
+
+.brbl-25 {
+  border-bottom-left-radius: 25px !important;
+}
+
+.brbr-25 {
+  border-bottom-right-radius: 25px !important;
+}
+
+.pearl-btn {
+  color: #222;
+  background: linear-gradient(
+    312deg,
+    #833ab41a 0%,
+    #fd1d1d0d 50%,
+    #2f57fd0d 72%,
+    #fcb0451a 100%
+  );
+  border: 1px solid #333;
+}
+
+.pearl-btn:hover {
+  background: #333;
+  color: #f8f9fa;
+}
+
+.pearl-bg {
+  color: #222;
+  background: linear-gradient(
+    312deg,
+    #833ab41a 0%,
+    #fd1d1d0d 50%,
+    #2f57fd0d 72%,
+    #fcb0451a 100%
+  );
+  border: 1px solid rgb(0, 0, 0);
+}
+
+.white-bg {
+  color: #222;
+  background: #FFF;
+  border: 1px solid #333;
+}
+
+/* PHONE */
+@media (min-width: 0px) {
+  .screen-sm {
+    display: block !important;
+  }
+  .screen-lg {
+    display: none !important;
+  }
+}
+/* TABLET */
+@media (min-width: 768px) {
+  .screen-sm {
+    display: none !important;
+  }
+  .screen-lg {
+    display: block !important;
+  }
+}
+
+.logo-png {
+  width: 45px !important;
+}

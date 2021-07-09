@@ -1,6 +1,4 @@
 ```
-Welcome to the...
-
 ____     ___                                       ___
 `Mb(     )d'                                       `MM
  YM.     ,P                                         MM         /
@@ -12,5 +10,4 @@ ____     ___                                       ___
     YM,P           MM'   MM         MM    MM        MM        MM
     `MM'           MM.  ,MM         YM.   MM        MM        YM.  ,
      YP            `YMMM9'Yb.        YMMM9MM_      _MM_        YMMM9
-
 ```
